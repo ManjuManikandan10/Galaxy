@@ -1,4 +1,4 @@
-# Amazing Milky Way Galaxy — Interactive 3D Visualization
+#  Milky Way Galaxy — 3D Visualization
 
 An interactive, procedurally generated 3D Milky Way galaxy built with **Three.js** and **Vite**.
 
